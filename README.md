@@ -49,6 +49,7 @@ Ingeniero de Sistemas con más de 7 años de experiencia en el área de calidad 
 | SQL              | Básico       |
 
 **Herramientas y Plataformas:**  
+![Static Badge](https://img.shields.io/badge/automation-path?style=social&logo=Selenium)
 Selenium, Postman, JIRA, GitHub, Robot Framework, DBeaver, PostgreSQL
 
 ---
