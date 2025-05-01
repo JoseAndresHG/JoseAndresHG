@@ -4,7 +4,7 @@
 
 **QA Automation Engineer | Control de Calidad**  
 📧 jandreshernandez55@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com) *(Agrega aquí tu URL de LinkedIn real)*  
+🔗 [LinkedIn](https://www.linkedin.com) *(https://www.linkedin.com/in/jose-andres-hernandez-galvis-7628441a2/)*  
 
 ---
 
