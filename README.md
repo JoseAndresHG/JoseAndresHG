@@ -1,5 +1,7 @@
 # 👨‍💻 Jose Andres Hernandez Galvis
 
+![Banner](https://github.com/JoseAndresHG/JoseAndresHG/blob/main/Test.webp)
+
 **QA Automation Engineer | Control de Calidad**  
 📧 jandreshernandez55@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com) *(Agrega aquí tu URL de LinkedIn real)*  
