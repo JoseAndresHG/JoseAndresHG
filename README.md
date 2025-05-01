@@ -2,7 +2,7 @@
 
 ![Banner](https://github.com/JoseAndresHG/JoseAndresHG/blob/main/test2.webp)
 
-**QA Automation Engineer | Control de Calidad**  
+## QA Automation Engineer | Control de Calidad ##
 📧 jandreshernandez55@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com) *(https://www.linkedin.com/in/jose-andres-hernandez-galvis-7628441a2/)*  
 
