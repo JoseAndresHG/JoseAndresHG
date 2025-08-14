@@ -24,7 +24,7 @@ Ingeniero de Sistemas con más de 7 años de experiencia en el área de calidad 
 
 ### **Mo Credit Management Platform**  
 **QA Automation Engineer**  
-📅 Junio 2021 - Actualidad  
+📅 Junio 2021 - Junio 2025  
 - Automatización de pruebas Web, Mobile y API.  
 - Ejecución de pruebas funcionales, de regresión y exploratorias.  
 - Creación de casos de prueba en formato Gherkin.  
@@ -58,7 +58,7 @@ Ingeniero de Sistemas con más de 7 años de experiencia en el área de calidad 
 
 **Herramientas y Plataformas:**  
 ![Static Badge](https://img.shields.io/badge/automation-path?style=social&logo=Selenium)
-Selenium, Postman, JIRA, GitHub, Robot Framework, DBeaver, PostgreSQL
+Selenium, Postman, JIRA, GitHub, Robot Framework, Playwright DBeaver, PostgreSQL
 
 ---
 
