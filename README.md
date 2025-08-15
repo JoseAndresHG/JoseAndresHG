@@ -5,7 +5,6 @@ QA Automation Engineer | Control de Calidad
 -------------------------------------------
 
 Ingeniero de Sistemas con más de 7 años de experiencia en el área de calidad de software. Certificado como Scrum Master Profesional, con enfoque en automatización de pruebas, mejora continua de procesos y control de calidad. Experiencia en el sector financiero y fintech, trabajando con metodologías ágiles, estimación, planeación de proyectos y ejecución de pruebas funcionales y no funcionales.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 * 🌍  I'm based in Bogota - Colombia
 * ✉️  You can contact me at [jandreshernandez55@gmail.com](mailto:jandreshernandez55@gmail.com)
